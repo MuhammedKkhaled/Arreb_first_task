@@ -12,9 +12,9 @@
 Homestead.json
 Homestead.yaml
 auth.json
+small.txt
 npm-debug.log
-yarn-error.log
+yarn-error.loga
 /.fleet
 /.idea
 /.vscode
-small.txt
